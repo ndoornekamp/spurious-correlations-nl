@@ -4,7 +4,6 @@ let nofPlots = 5
 function addCanvas() {
     const div = document.createElement('div')
     const canvas = document.createElement("canvas")
-    div.style.width = "75%"
     canvas.classList.add('line-chart')
     div.append(canvas)
     graphContainer.appendChild(div)
@@ -35,7 +34,7 @@ async function addPlot(datasetIndex) {
         }],
         labels: [2014, 2015, 2016, 2017, 2018, 2019, 2020]
     };
-    const title = dataset.series1.title.english.concat(" vs. ", dataset.series2.title.english)
+    const title = [dataset.series1.title.english, " vs. ", dataset.series2.title.english, 'Correlation ' + dataset.correlation.toFixed(5)]
 
     const config = {
     type: 'line',
@@ -58,11 +57,19 @@ async function addPlot(datasetIndex) {
                   type: 'linear',
                   display: true,
                   position: 'left',
+                  title: {
+                    display: true,
+                    text: dataset.series1.axis_label.english
+                  },
               },
               y1: {
                   type: 'linear',
                   display: true,
                   position: 'right',
+                  title: {
+                    display: true,
+                    text: dataset.series2.axis_label.english
+                  },
 
                   // grid line settings
                   grid: {

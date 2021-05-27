@@ -1,0 +1,8 @@
+#graph-container {
+    max-width: 800px;
+}
+
+.line-chart {
+    padding: 25px;
+    max-height: 400px;
+}

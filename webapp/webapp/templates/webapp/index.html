@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Title</title>
-  </head>
-  <body>
-    {% load static %}
 
-    <div id="graph-container"></div>
+{% extends "main/base.html" %}
+{% load static %}
 
-    <script src="{% static 'webapp/js/infiniteGraphScroll.js' %}"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js"></script>
-  </body>
+{% block content %}
+  <link href="{% static 'webapp/css/index.css' %}" rel="stylesheet">
+
+  <div id="graph-container" class="container"></div>
+
+  <script src="{% static 'webapp/js/infiniteGraphScroll.js' %}"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js"></script>
+
+{% endblock %}
 </html>
