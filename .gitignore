@@ -1,0 +1,16 @@
+
+.idea/
+
+downloads/
+
+imdb.db
+
+.ipynb_checkpoints/
+
+webapp/main/__pycache__/
+
+webapp/webapp/__pycache__/
+
+webapp/webapp/migrations/__pycache__/
+
+webapp/db.sqlite3
