@@ -14,3 +14,7 @@ webapp/webapp/__pycache__/
 webapp/webapp/migrations/__pycache__/
 
 webapp/db.sqlite3
+
+app/__pycache__/
+
+__pycache__/

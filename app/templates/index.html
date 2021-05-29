@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% extends "base.html" %}
+
+{% block body %}
+  <link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet">
+
+  <div id="graph-container" class="container"></div>
+
+  <script src="{{ url_for('static', filename='js/infiniteGraphScroll.js') }}"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js"></script>
+
+{% endblock %}
+</html>
