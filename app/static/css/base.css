@@ -1,0 +1,28 @@
+.navbar {
+    background-color: black;
+}
+
+body {
+  background: #fafafa;
+  color: #333333;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin: 20px;
+  max-width: 900px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-item {
+    padding: 0px 15px;
+}
+
+.navbar-brand {
+    padding: 0px 25px;
+}
