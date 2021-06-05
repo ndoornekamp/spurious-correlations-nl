@@ -13,28 +13,27 @@ function addCanvas() {
 async function addPlot(datasetIndex) {
     canvas = addCanvas()
     const ctx = canvas.getContext("2d")
-    console.log(ctx)
 
     dataset = await fetchData(datasetIndex)
     const data = {
         datasets: [
         {
           data: dataset.series1.values,
-          label: dataset.series1.axis_label.english,
+          label: dataset.series1.localized_axis_label,
           yAxisID: 'y',
           backgroundColor: '#CD5C5C',
           borderColor: '#CD5C5C',
         },
         {
           data: dataset.series2.values,
-          label: dataset.series2.axis_label.english,
+          label: dataset.series2.localized_axis_label,
           yAxisID: 'y1',
           backgroundColor: '#ADD8E6',
           borderColor: '#ADD8E6',
         }],
         labels: [2014, 2015, 2016, 2017, 2018, 2019, 2020]
     };
-    const title = [dataset.series1.title.english, " vs. ", dataset.series2.title.english, 'Correlation ' + dataset.correlation.toFixed(5)]
+    const title = [dataset.series1.localized_title, " vs. ", dataset.series2.localized_title, 'Correlation ' + dataset.correlation.toFixed(5)]
 
     const config = {
     type: 'line',
@@ -59,7 +58,7 @@ async function addPlot(datasetIndex) {
                   position: 'left',
                   title: {
                     display: true,
-                    text: dataset.series1.axis_label.english
+                    text: dataset.series1.localized_axis_label
                   },
               },
               y1: {
@@ -68,7 +67,7 @@ async function addPlot(datasetIndex) {
                   position: 'right',
                   title: {
                     display: true,
-                    text: dataset.series2.axis_label.english
+                    text: dataset.series2.localized_axis_label
                   },
 
                   // grid line settings

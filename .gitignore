@@ -18,3 +18,7 @@ webapp/db.sqlite3
 app/__pycache__/
 
 __pycache__/
+
+messages.pot
+
+app/translations/nl/LC_MESSAGES/messages.mo
