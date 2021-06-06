@@ -33,7 +33,7 @@ async function addPlot(datasetIndex) {
         }],
         labels: [2014, 2015, 2016, 2017, 2018, 2019, 2020]
     };
-    const title = [dataset.series1.localized_title, " vs. ", dataset.series2.localized_title, 'Correlation ' + dataset.correlation.toFixed(5)]
+    const title = [dataset.series1.localized_title, " vs. ", dataset.series2.localized_title, 'ρ = ' + dataset.correlation.toFixed(4)]
 
     const config = {
     type: 'line',

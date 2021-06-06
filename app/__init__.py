@@ -16,8 +16,8 @@ app.config.from_object('config')
 
 @babel.localeselector
 def get_locale():
-    session_locale = session.get('locale', None)
-    if session_locale:
-        return session_locale
+    session_language = session.get('language', None)
+    if session_language:
+        return session_language
     else:
         return request.accept_languages.best_match(app.config['LANGUAGES'])

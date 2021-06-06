@@ -17,12 +17,7 @@ def index():
 
 @app.route('/data', methods=['POST'])
 def data():
-    locale = str(get_locale())
-    locale_to_language = {
-        'uk': 'en',
-        'nl': 'nl'
-    }
-    language = locale_to_language[locale]
+    language = str(get_locale())
 
     idx = json.loads(request.data)['index'] % len(correlated_series)  # Truly infinite scroll
     series1, series2, correlation = correlated_series[idx]
@@ -50,13 +45,13 @@ def about():
     return render_template('about.html')
 
 
-@app.route('/set_locale', methods=['POST'])
-def set_locale():
-    requested_locale = json.loads(request.data)['locale']
-    if session.get('locale') == requested_locale:
-        changed_locale = False
+@app.route('/set_language', methods=['POST'])
+def set_language():
+    requested_language = json.loads(request.data)['language']
+    if session.get('language') == requested_language:
+        changed_language = False
     else:
-        session['locale'] = requested_locale
-        changed_locale = True
+        session['language'] = requested_language
+        changed_language = True
 
-    return json.dumps({'changed_locale': changed_locale})
+    return json.dumps({'changed_language': changed_language})
