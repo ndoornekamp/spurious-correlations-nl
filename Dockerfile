@@ -10,11 +10,13 @@ RUN pip install --upgrade pip && \
     pip install pipenv && \
     pipenv install --system --deploy --ignore-pipfile
 
+ADD . /app
+
+RUN pybabel compile -d app/translations
+
 # Create and switch to a new user - running as root user can be a security risk
 RUN useradd appuser
 USER appuser
-
-ADD . /app
 
 EXPOSE 5000
 
