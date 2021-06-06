@@ -10,7 +10,11 @@ COPY Pip* /app/
 
 RUN pip install --upgrade pip && \
     pip install pipenv && \
-    pipenv install --dev --system --deploy --ignore-pipfile
+    pipenv install --system --deploy --ignore-pipfile
+
+# Create and switch to a new user - running as root user can be a security risk
+RUN useradd appuser
+USER appuser
 
 ADD . /app
 
