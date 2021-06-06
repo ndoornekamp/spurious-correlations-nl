@@ -1,6 +1,6 @@
 FROM python:3.8-slim-buster
 
-ENV FLASK_APP "app.py"
+ENV FLASK_APP "run.py"
 
 WORKDIR /app
 
@@ -20,4 +20,4 @@ EXPOSE 5000
 
 # Run the app using Flask's development server. That's not recommended (see e.g.
 # https://flask.palletsprojects.com/en/latest/deploying/, but will be fine for this simple, low-traffic project
-CMD ["flask", "run", "--host=0.0.0.0"]
+ENTRYPOINT ["python", "run.py"]
