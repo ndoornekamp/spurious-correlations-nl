@@ -1,10 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
+	{% extends "base.html" %}
+	{% block body %}
+	<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet">
 
-{% extends "base.html" %}
+	{% if result %}
+		<div id="graph-container" class="container">
+			<div class="graph">
+				<canvas class="line-chart" id="line-chart" data-result="{{ result }}"></canvas>
+			</div>
+		</div>
+	{% else %}
+		<p>{{ _('Enter your own series and find one that correlates with it') }}</p>
 
-{% block body %}
-  <p>{{ _('Enter your own series and find one that correlates with it') }}</p>
+		<form action="find_new" method="POST">
+			<table>
+			{% for year in years %}
+				<tr>
+					<td>{{ year }}</td>
+					<td><input type="number" step="any" id="{{ year }}" name="{{ year }}"/></td>
+				</tr>
+			{% endfor %}
+				<tr><td><label for="title">Series label</label></td>
+					<td><input type="text" id="title", name="title"></td></tr>
+				<tr><td><label for="axis_label">Y-axis label</label></td>
+					<td><input type="text" id="axis_label" name="axis_label"></td></tr>
+			</table>
+			<input type="submit" value="Submit">
+		</form>
+	{% endif %}
 
-{% endblock %}
+	<script type="module" src="{{ url_for('static', filename='js/drawGraph.js') }}"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js"></script>
+
+	{% endblock %}
 </html>
