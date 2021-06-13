@@ -1,0 +1,22 @@
+#graph-container {
+    max-width: 800px;
+}
+
+.line-chart {
+    padding: 25px;
+    max-height: 400px;
+    min-height: 200px;
+}
+
+.references {
+    display: inline-block;
+    font-size: 65%;
+    float: right;
+}
+
+.download-button {
+    display: inline-block;
+    float: left;
+    max-height: 20px;
+    padding: 0px 25px;
+}

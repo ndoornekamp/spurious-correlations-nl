@@ -79,3 +79,41 @@ export function getConfig(dataset) {
 	};
 	return config;
 }
+
+export function addDownloadButton(canvas, chart) {
+	const downloadButton = document.createElement("input");
+	downloadButton.classList.add('download-button')
+	downloadButton.type = "image"
+	downloadButton.src = "/static/img/download.ico"
+
+	downloadButton.onclick = function () {
+		const a = document.createElement("a");
+		a.href = chart.toBase64Image();
+		a.download = "correlation.png";
+		a.click();
+	};
+	canvas.parentElement.append(downloadButton);
+}
+
+export function addSources(canvas, dataset) {
+    const references = document.createElement('p')
+    references.classList.add('references')
+    references.innerHTML = "Source: "
+
+    if (dataset.series1.source !== undefined) {
+        // series1 may be provided by the user via the 'Find your own' page. In that case there's no source to display
+        references.innerHTML = "Sources: "
+
+        const reference1 = document.createElement("a");
+        reference1.href = dataset.series1.source
+        reference1.text = new URL(reference1).host
+        references.append(reference1)
+        references.append(' & ')
+    }
+
+    const reference2 = document.createElement("a");
+    reference2.href = dataset.series2.source
+    reference2.text = new URL(reference2).host
+    references.append(reference2)
+    canvas.parentElement.append(references)
+}

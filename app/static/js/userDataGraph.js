@@ -1,5 +1,4 @@
-import { getConfig } from './graphConfig.js';
-import { addDownloadButton } from './downloadGraph.js';
+import { getConfig, addDownloadButton, addSources } from './graphs.js';
 
 const canvas = document.getElementById("line-chart");
 
@@ -8,4 +7,5 @@ if (canvas) {
     const config = getConfig(dataset);
     const chart = new Chart(canvas.getContext("2d"), config);
     addDownloadButton(canvas, chart);
+    addSources(canvas, dataset);
 }

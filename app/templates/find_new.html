@@ -2,7 +2,7 @@
 <html lang="en">
 	{% extends "base.html" %}
 	{% block body %}
-	<link href="{{ url_for('static', filename='css/index.css') }}" rel="stylesheet">
+	<link href="{{ url_for('static', filename='css/graphs.css') }}" rel="stylesheet">
 
 	{% if result %}
 		<div id="graph-container" class="container">
@@ -18,7 +18,7 @@
 			{% for year in years %}
 				<tr>
 					<td>{{ year }}</td>
-					<td><input type="number" step="any" id="{{ year }}" name="{{ year }}"/></td>
+					<td><input type="number" step="any" id="{{ year }}" name="{{ year }}" required/></td>
 				</tr>
 			{% endfor %}
 				<tr><td><label for="title">Series label</label></td>
@@ -30,7 +30,7 @@
 		</form>
 	{% endif %}
 
-	<script type="module" src="{{ url_for('static', filename='js/drawGraph.js') }}"></script>
+	<script type="module" src="{{ url_for('static', filename='js/userDataGraph.js') }}"></script>
 	<script src="https://cdn.jsdelivr.net/npm/chart.js@3.2.1/dist/chart.min.js"></script>
 
 	{% endblock %}

@@ -1,5 +1,4 @@
-import { getConfig } from './graphConfig.js';
-import { addDownloadButton } from './downloadGraph.js';
+import { getConfig, addDownloadButton, addSources } from './graphs.js';
 
 const graphContainer = document.getElementById("graph-container");
 let nofPlots = 5;
@@ -20,7 +19,7 @@ async function addPlot(datasetIndex) {
 	const dataset = await fetchData(datasetIndex);
 	const config = getConfig(dataset);
 	const chart = new Chart(canvas.getContext("2d"), config);
-	return [canvas, chart];
+	return [canvas, chart, dataset];
 }
 
 async function fetchData(datasetIndex) {
@@ -42,7 +41,8 @@ window.onscroll = async function (ev) {
 
 async function init(initialNofPlots) {
 	for (let i = 0; i < initialNofPlots; i++) {
-		const [canvas, chart] = await addPlot(i);
+		const [canvas, chart, dataset] = await addPlot(i);
+		addSources(canvas, dataset);
 		addDownloadButton(canvas, chart);
 	}
 }
