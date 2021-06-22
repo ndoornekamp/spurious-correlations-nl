@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, width=400px">
     <title>{{ _('Coincidental correlations') }}</title>
 
     <!-- CSS-->
@@ -29,10 +29,10 @@
       </li>
     </ul>
 
-    <ul class="navbar-nav ms-auto">
-      <img class="set-language" data-language="nl" type="image" src="{{ url_for('static', filename='img/nl.png') }}" height="30"/>
-      <img class="set-language navbar-flag" data-language="en" type="image" src="{{ url_for('static', filename='img/uk.png') }}" height="30"/>
-    </ul>
+    <div class="navbar-nav ms-auto">
+      <img class="set-language navbar-flag" data-language="nl" type="image" src="{{ url_for('static', filename='img/nl.png') }}"/>
+      <img class="set-language navbar-flag" data-language="en" type="image" src="{{ url_for('static', filename='img/uk.png') }}"/>
+    </div>
     <script src="{{ url_for('static', filename='js/setLanguage.js') }}"></script>
   </nav>
 

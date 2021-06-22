@@ -34,7 +34,8 @@ async function fetchData(datasetIndex) {
 window.onscroll = async function (ev) {
 	if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
 		nofPlots++;
-		const [canvas, chart] = await addPlot(nofPlots);
+		const [canvas, chart, dataset] = await addPlot(nofPlots);
+		addSources(canvas, dataset);
 		addDownloadButton(canvas, chart);
 	}
 };
