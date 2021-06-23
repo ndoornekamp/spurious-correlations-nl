@@ -7,6 +7,7 @@ from flask import request, session
 from flask_babel import _, get_locale
 
 from app import app
+from app.correlation import find_max_correlation
 
 YEARS = [2014, 2015, 2016, 2017, 2018, 2019, 2020]
 
@@ -54,8 +55,7 @@ def find_new():
         all_data_flat = [series for category_series in all_data.values() for series in category_series]
         all_series = np.array([np.array(data['values']) for data in all_data_flat])
 
-        correlations = pearson_cor(input_series.transpose(), all_series.transpose())
-        max_correlation_idx = int(abs(correlations).argmax(axis=1))
+        max_correlation, max_correlation_idx = find_max_correlation(input_series, all_series)
         max_correlated_series = all_data_flat[max_correlation_idx]
 
         language = str(get_locale())
@@ -69,21 +69,10 @@ def find_new():
                 "values": list(input_series)
             },
             "series2": max_correlated_series,
-            "correlation": correlations[0, max_correlation_idx]
+            "correlation": max_correlation
         }
 
         return render_template('find_new.html', result=json.dumps(data))
-
-
-def pearson_cor(x, y):
-    """ Copied from https://cancerdatascience.org/blog/posts/pearson-correlation/ """
-    xv = x - x.mean(axis=0)
-    yv = y - y.mean(axis=0)
-    xvss = (xv * xv).sum(axis=0)
-    yvss = (yv * yv).sum(axis=0)
-    result = np.matmul(xv.transpose(), yv) / np.sqrt(np.outer(xvss, yvss))
-    # bound the values to -1 to 1 in the event of precision issues
-    return np.maximum(np.minimum(result, 1.0), -1.0)
 
 
 @app.route('/about', methods=['GET'])
