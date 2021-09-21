@@ -4,7 +4,9 @@
 {% extends "base.html" %}
 
 {% block body %}
-  <p>{{ _('About this project') }}</p>
+  <p>{{ _("It's never been so easy to gather, analyse and find patterns in data. Simultaneously, the techniques used to do all that can easily overwhelm. One of the first lines of defence when someone waves a graph showing a pattern or a prediction by a machine learning model at me, is to remind myself that <b>correlation does not imply causation</b>:") }}</p>
+  <p>{{ _("That A correlates with B doesn't mean that A is the cause of B. Sometimes B is the cause of A; sometimes they have common cause C. And sometimes it's just a coincidence.") }}</p>
+<p>{{ _("What really drove this point home for me was the website <a href='https://www.tylervigen.com/spurious-correlations'>Spurious Correlations</a>. The idea is to take a bunch of time series from various, unrelated, sources and take out pairs that strongly correlate. Besides being amusing, it's an effective way to illustrate how ridiculous the results can be if you just smash some data together and let go of your common sense.") }}</p>
 
 {% endblock %}
 </html>

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2021-06-05 07:36-0700\n"
+"POT-Creation-Date: 2021-09-21 03:12-0700\n"
 "PO-Revision-Date: 2021-06-05 06:49-0700\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: nl\n"
@@ -18,17 +18,58 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.9.1\n"
 
-#: app/views.py:25 app/views.py:26
+#: app/views.py:30 app/views.py:31 app/views.py:62
 msgid "title"
 msgstr ""
 
-#: app/views.py:27 app/views.py:28
+#: app/views.py:32 app/views.py:33 app/views.py:63
 msgid "axis_label"
 msgstr ""
 
 #: app/templates/about.html:7
-msgid "About this project"
-msgstr "Over dit project"
+msgid ""
+"It's never been so easy to gather, analyse and find patterns in data. "
+"Simultaneously, the techniques used to do all that can easily overwhelm. "
+"One of the first lines of defence when someone waves a graph showing a "
+"pattern or a prediction by a machine learning model at me, is to remind "
+"myself that <b>correlation does not imply causation</b>:"
+msgstr ""
+"Het is nog nooit zo makkelijk geweest om data te verzamelen, analyseren "
+"en er patronen in te vinden. Tegelijkertijd zie je met al die technieken "
+"al snel door de bomen het bos niet meer. Een van de eerste "
+"verdedigingslinies wanneer iemand een grafiek of een voorspelling van een"
+" machine learning model laat zien, is om (opnieuw) te realiseren dat "
+"<b>correlatie geen causaal verband impliceert:"
+
+#: app/templates/about.html:8
+msgid ""
+"That A correlates with B doesn't mean that A is the cause of B. Sometimes"
+" B is the cause of A; sometimes they have common cause C. And sometimes "
+"it's just a coincidence."
+msgstr ""
+"Dat A correleert met B betekent niet dat A de oorzaak is van B. Soms is B"
+" de oorzaak van A, soms hebben ze gezamenlijk oorzaak C. En soms is het "
+"puur toeval."
+
+#: app/templates/about.html:9
+#, fuzzy
+msgid ""
+"What really drove this point home for me was the website <a "
+"href='https://www.tylervigen.com/spurious-correlations'>Spurious "
+"Correlations</a>. The idea is to take a bunch of time series from "
+"various, unrelated, sources and take out pairs that strongly correlate. "
+"Besides being amusing, it's an effective way to illustrate how ridiculous"
+" the results can be if you just smash some data together and let go of "
+"your common sense."
+msgstr ""
+"Wat dit punt voor mij echt duidelijk maakte was de website <a "
+"href='https://www.tylervigen.com/spurious-correlations'>Spurious "
+"Correlations</a>. Het idee is om een berg data uit duidelijk "
+"ongerelateerde bronnen paar voor paar te bekijken en de paren met een "
+"hoge correlatie-co&#235;fficient eruit te vissen. Dit is behalve "
+"vermakelijk, ook een geweldige manier om te laten zien hoe je, als je "
+"simpelweg naar data en correlatie kijkt, tot opmerkelijke conclusies kunt"
+" komen."
 
 #: app/templates/base.html:6
 msgid "Coincidental correlations"
@@ -42,7 +83,10 @@ msgstr "Vind nieuwe correlaties"
 msgid "About"
 msgstr "Over"
 
-#: app/templates/find_new.html:7
+#: app/templates/find_new.html:14
 msgid "Enter your own series and find one that correlates with it"
 msgstr "Vul je eigen reeks in en vind een ander die er sterk mee correleert"
+
+#~ msgid "About this project"
+#~ msgstr "Over dit project"
 
