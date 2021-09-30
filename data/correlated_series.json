@@ -1,5 +1,5 @@
 [
-         [
+    [
         {
             "title": {
                 "en": "Classification of cyclist Bauke Mollema in Il Lombardia",
@@ -40,56 +40,13 @@
                 165.0
             ]
         },
-        0.9627
+        0.9627370992509279
     ],
-    [
+        [
         {
             "title": {
-                "en": "Number of goals for soccer club AZ",
-                "nl": "Aantal doelpunten voor voetbalclub AZ"
-            },
-            "axis_label": {
-                "en": "Number of goals",
-                "nl": "Aantal doelpunten"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=1&van=2014&tot=2020&clubid=",
-            "values": [
-                63,
-                70,
-                56,
-                72,
-                64,
-                54,
-                75
-            ]
-        },
-        {
-            "title": {
-                "en": "Percentage of Dutch citizens indicating they're happy (Total number of people)",
-                "nl": "Percentage Nederlanders dat aangeeft gelukkig te zijn (Totaal personen)"
-            },
-            "axis_label": {
-                "en": "Number of people",
-                "nl": "Aantal mensen"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84572NED/table?fromstatweb",
-            "values": [
-                87.9,
-                87.4,
-                88.3,
-                87.5,
-                87.7,
-                88.9,
-                86.8
-            ]
-        },
-        -0.9559
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Groningen",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Groningen"
+                "en": "Number of crimes related to drunk driving in Dordrecht",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Dordrecht"
             },
             "axis_label": {
                 "en": "Number of crimes",
@@ -97,214 +54,42 @@
             },
             "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
             "values": [
-                275.0,
                 300.0,
-                330.0,
-                365.0,
-                440.0,
-                490.0,
-                500.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Feyenoord",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Feyenoord"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                25,
-                24,
-                25,
-                26,
-                28,
-                30,
-                30
-            ]
-        },
-        0.9727
-    ],
-      [
-        {
-            "title": {
-                "en": "Number of red cards for soccer club Vitesse",
-                "nl": "Aantal rode kaarten voor voetbalclub Vitesse"
-            },
-            "axis_label": {
-                "en": "Number of red cards",
-                "nl": "Aantal rode kaarten"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?report=5&sortitem=1&van=2014&tot=2020&clubid=-1",
-            "values": [
-                2,
-                3,
-                4,
-                0,
-                9,
-                2,
-                5
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of summer days (>25 degrees Celcius) in de Bilt",
-                "nl": "Aantal zomerse dagen in de Bilt"
-            },
-            "axis_label": {
-                "en": "Number of days",
-                "nl": "Aantal dagen"
-            },
-            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
-            "values": [
-                23,
-                29,
-                31,
-                23,
-                55,
-                26,
-                32
-            ]
-        },
-        0.9524
-    ],
-    [
-        {
-            "title": {
-                "en": "Classification of cyclist Ramon Sinkeldam in Dutch National Championship Road Race",
-                "nl": "Klassering van wielrenner Ramon Sinkeldam in Dutch National Championship Road Race"
-            },
-            "axis_label": {
-                "en": "Classification",
-                "nl": "Klassering"
-            },
-            "source": "https://www.procyclingstats.com/race/nc-netherlands/",
-            "values": [
-                19,
-                2,
-                8,
-                1,
-                3,
-                7,
-                11
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club FC Utrecht",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub FC Utrecht"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                36,
-                27,
-                29,
-                26,
-                26,
-                30,
-                31
-            ]
-        },
-        0.9821
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of movies featuring Robert Downey Jr.",
-                "nl": "Aantal films met Robert Downey Jr."
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                3,
-                1,
-                1,
-                1,
-                1,
-                2,
-                1
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Noord-Holland",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Noord-Holland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                5755.0,
-                4855.0,
-                4740.0,
-                4615.0,
-                4815.0,
-                5410.0,
-                4655.0
-            ]
-        },
-        0.9718
-    ],
-    [
-        {
-            "title": {
-                "en": "Classification of cyclist Sonny Colbrelli in Milano-Sanremo",
-                "nl": "Klassering van wielrenner Sonny Colbrelli in Milano-Sanremo"
-            },
-            "axis_label": {
-                "en": "Classification",
-                "nl": "Klassering"
-            },
-            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
-            "values": [
-                6,
-                18,
-                9,
-                13,
-                9,
-                43,
-                63
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to arson in 's-Gravenhage",
-                "nl": "Aantal misdrijven gerelateerd aan brandstichting in 's-Gravenhage"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                190.0,
-                195.0,
-                190.0,
+                210.0,
+                175.0,
+                225.0,
+                175.0,
                 200.0,
-                180.0,
-                265.0,
-                350.0
+                190.0
             ]
         },
-        0.9805
+        {
+            "title": {
+                "en": "Classification of Kai Verbij on the Dutch National Championships 500m speedskating",
+                "nl": "Klassering Kai Verbij op Nederlandse Kampioenschappen 500m schaatsen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://nl.wikipedia.org/wiki/Kai_Verbij",
+            "values": [
+                15,
+                7,
+                1,
+                5,
+                3,
+                5,
+                3
+            ]
+        },
+        0.9636863501656356
     ],
     [
         {
             "title": {
-                "en": "Number of crimes related to drunk driving in Terneuzen",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Terneuzen"
+                "en": "Number of crimes related to destruction/vandalism of cars in Limburg",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Limburg"
             },
             "axis_label": {
                 "en": "Number of crimes",
@@ -312,128 +97,62 @@
             },
             "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
             "values": [
-                230.0,
-                150.0,
-                125.0,
-                130.0,
-                150.0,
-                190.0,
-                130.0
+                3880.0,
+                3535.0,
+                3060.0,
+                2520.0,
+                2265.0,
+                2555.0,
+                2355.0
             ]
         },
         {
             "title": {
-                "en": "Number of unique players positioned by soccer club Vitesse",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Vitesse"
+                "en": "Position of 'Stromae - Formidable' in the Dutch Top 2000",
+                "nl": "Positie van 'Stromae - Formidable' in de Top 2000"
             },
             "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
+                "en": "Position",
+                "nl": "Positie"
             },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
+            "source": "http://www.hitsallertijden.nl/top%202000/",
             "values": [
-                22,
-                26,
-                27,
-                27,
-                26,
-                25,
-                26
+                32.0,
+                92.0,
+                143.0,
+                200.0,
+                296.0,
+                234.0,
+                229.0
             ]
         },
-        -0.9557
+        -0.974229099806249
     ],
     [
         {
             "title": {
-                "en": "Number of crimes related to destruction/vandalism of cars in Noord-Holland",
-                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Noord-Holland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                9340.0,
-                8515.0,
-                7635.0,
-                6535.0,
-                5870.0,
-                5835.0,
-                5815.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of games ended in a draw for soccer club Ajax",
-                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Ajax"
+                "en": "Number of games won by soccer club sc Heerenveen",
+                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub sc Heerenveen"
             },
             "axis_label": {
                 "en": "Number of games",
                 "nl": "Aantal wedstrijden"
             },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
             "values": [
+                13,
+                11,
+                12,
+                12,
+                10,
                 8,
-                7,
-                6,
-                4,
-                2,
-                2,
-                4
-            ]
-        },
-        0.9522
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of movies featuring Leonardo DiCaprio",
-                "nl": "Aantal films met Leonardo DiCaprio"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                0,
-                1,
-                2,
-                1,
-                3,
-                3,
-                0
+                9
             ]
         },
         {
             "title": {
-                "en": "Number of crimes related to arson in Utrecht",
-                "nl": "Aantal misdrijven gerelateerd aan brandstichting in Utrecht"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                140.0,
-                145.0,
-                175.0,
-                160.0,
-                190.0,
-                190.0,
-                125.0
-            ]
-        },
-        0.9687
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Zeeland",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Zeeland"
+                "en": "Number of crimes related to harddrugs in Eindhoven",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Eindhoven"
             },
             "axis_label": {
                 "en": "Number of crimes",
@@ -442,37 +161,80 @@
             "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
             "values": [
                 110.0,
-                105.0,
-                105.0,
-                115.0,
                 125.0,
-                135.0,
-                165.0
+                115.0,
+                120.0,
+                190.0,
+                260.0,
+                245.0
+            ]
+        },
+        -0.9608686354457775
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of singles featuring Beyonc\u00e9",
+                "nl": "Aantal singles uitgebracht door Beyonc\u00e9"
+            },
+            "axis_label": {
+                "en": "Number of singles",
+                "nl": "Aantal singles"
+            },
+            "source": "https://en.wikipedia.org/wiki/Beyonc%C3%A9_discography ",
+            "values": [
+                5,
+                0,
+                5,
+                1,
+                0,
+                2,
+                0
             ]
         },
         {
             "title": {
-                "en": "Number of unique players positioned by soccer club PSV",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub PSV"
+                "en": "Classification of cyclist Michael Matthews in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Michael Matthews in Milano-Sanremo"
             },
             "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
+                "en": "Classification",
+                "nl": "Klassering"
             },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
             "values": [
-                26,
-                23,
-                23,
-                26,
-                26,
-                29,
-                36
+                78,
+                3,
+                59,
+                12,
+                7,
+                12,
+                3
             ]
         },
-        0.976
+        0.957535321112209
     ],
     [
+        {
+            "title": {
+                "en": "Position of 'Adele - Skyfall' in the Dutch Top 2000",
+                "nl": "Positie van 'Adele - Skyfall' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                93.0,
+                36.0,
+                117.0,
+                164.0,
+                184.0,
+                244.0,
+                230.0
+            ]
+        },
         {
             "title": {
                 "en": "Number of crimes related to drunk driving in Groningen",
@@ -493,96 +255,13 @@
                 1085.0
             ]
         },
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Feyenoord",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Feyenoord"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                25,
-                24,
-                25,
-                26,
-                28,
-                30,
-                30
-            ]
-        },
-        0.9921
+        0.9570988597813384
     ],
     [
         {
             "title": {
-                "en": "Number of games won by soccer club Feyenoord",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub Feyenoord"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
-                17,
-                19,
-                26,
-                20,
-                20,
-                14,
-                16
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of movies featuring Julia Roberts",
-                "nl": "Aantal films met Julia Roberts"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                0,
-                1,
-                2,
-                1,
-                1,
-                0,
-                0
-            ]
-        },
-        0.9576
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of movies featuring Anna Kendrick",
-                "nl": "Aantal films met Anna Kendrick"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                5,
-                2,
-                5,
-                3,
-                1,
-                2,
-                1
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to destruction/vandalism of cars in Tiel",
-                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Tiel"
+                "en": "Number of crimes related to drunk driving in 's-Gravenhage",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in 's-Gravenhage"
             },
             "axis_label": {
                 "en": "Number of crimes",
@@ -590,1111 +269,56 @@
             },
             "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
             "values": [
-                210.0,
-                150.0,
-                195.0,
-                175.0,
-                110.0,
-                155.0,
-                125.0
-            ]
-        },
-        0.9628
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games won by soccer club sc Heerenveen",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub sc Heerenveen"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
-                13,
-                11,
-                12,
-                12,
-                10,
-                8,
-                9
+                2585.0,
+                1910.0,
+                1920.0,
+                1680.0,
+                1585.0,
+                1800.0,
+                1450.0
             ]
         },
         {
             "title": {
-                "en": "Number of crimes related to harddrugs in Flevoland",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Flevoland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                370.0,
-                285.0,
-                315.0,
-                330.0,
-                150.0,
-                130.0,
-                105.0
-            ]
-        },
-        0.9501
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games won by soccer club sc Heerenveen",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub sc Heerenveen"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
-                13,
-                11,
-                12,
-                12,
-                10,
-                8,
-                9
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of tropical days (>25 degrees Celcius) in de Bilt",
-                "nl": "Aantal tropische dagen in de Bilt"
-            },
-            "axis_label": {
-                "en": "Number of days",
-                "nl": "Aantal dagen"
-            },
-            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
-            "values": [
-                2,
-                5,
-                5,
-                3,
-                9,
-                11,
-                12
-            ]
-        },
-        -0.9523
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Willem II",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Willem II"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                24,
-                29,
-                25,
-                26,
-                28,
-                24,
-                30
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Emmen",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Emmen"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                115.0,
-                125.0,
-                115.0,
-                120.0,
-                120.0,
-                115.0,
-                125.0
-            ]
-        },
-        0.9545
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of movies featuring Morgan Freeman",
-                "nl": "Aantal films met Morgan Freeman"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                4,
-                2,
-                2,
-                2,
-                1,
-                1,
-                1
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to destruction/vandalism of cars in Flevoland",
-                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Flevoland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                1125.0,
-                900.0,
-                935.0,
-                810.0,
-                760.0,
-                795.0,
-                750.0
-            ]
-        },
-        0.9541
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Utrecht",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Utrecht"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                230.0,
-                175.0,
-                120.0,
-                135.0,
-                115.0,
-                130.0,
-                135.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Classification of cyclist Dylan Van Baarle in Ronde van Vlaanderen",
-                "nl": "Klassering van wielrenner Dylan Van Baarle in Ronde van Vlaanderen"
+                "en": "Classification of cyclist Eva Buurman in Dutch National Championship Road Race",
+                "nl": "Klassering van wielrenner Eva Buurman in Dutch National Championship Road Race"
             },
             "axis_label": {
                 "en": "Classification",
                 "nl": "Klassering"
             },
-            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen/",
+            "source": "https://www.procyclingstats.com/race/nc-netherlands-we/",
             "values": [
-                89,
-                37,
-                6,
-                4,
-                12,
-                18,
-                8
-            ]
-        },
-        0.961
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of red cards for soccer club Ajax",
-                "nl": "Aantal rode kaarten voor voetbalclub Ajax"
-            },
-            "axis_label": {
-                "en": "Number of red cards",
-                "nl": "Aantal rode kaarten"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?report=5&sortitem=1&van=2014&tot=2020&clubid=-1",
-            "values": [
-                1,
-                2,
-                2,
-                3,
-                2,
-                0,
-                4
-            ]
-        },
-        {
-            "title": {
-                "en": "Percentage of Dutch citizens indicating they're happy (Education level: 2 Middle)",
-                "nl": "Percentage Nederlanders dat aangeeft gelukkig te zijn (Onderwijsniveau: 2 Middelbaar)"
-            },
-            "axis_label": {
-                "en": "Number of people",
-                "nl": "Aantal mensen"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84572NED/table?fromstatweb",
-            "values": [
-                88.2,
-                88.1,
-                88.0,
-                87.4,
-                88.0,
-                88.9,
-                86.6
-            ]
-        },
-        -0.9717
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Rotterdam",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Rotterdam"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                525.0,
-                550.0,
-                560.0,
-                520.0,
-                615.0,
-                630.0,
-                615.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of tropical days (>25 degrees Celcius) in de Bilt",
-                "nl": "Aantal tropische dagen in de Bilt"
-            },
-            "axis_label": {
-                "en": "Number of days",
-                "nl": "Aantal dagen"
-            },
-            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
-            "values": [
-                2,
-                5,
-                5,
-                3,
-                9,
-                11,
-                12
-            ]
-        },
-        0.9657
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Vitesse",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Vitesse"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                22,
-                26,
-                27,
-                27,
-                26,
-                25,
-                26
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of movies featuring Robert Downey Jr.",
-                "nl": "Aantal films met Robert Downey Jr."
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                3,
-                1,
-                1,
-                1,
-                1,
-                2,
-                1
-            ]
-        },
-        -0.951
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games won by soccer club ADO Den Haag",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub ADO Den Haag"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
-                9,
-                10,
-                11,
-                13,
-                12,
-                4,
-                4
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Limburg",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Limburg"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                470.0,
-                440.0,
-                425.0,
-                370.0,
-                375.0,
-                535.0,
-                550.0
-            ]
-        },
-        -0.982
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Vitesse",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Vitesse"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                22,
-                26,
-                27,
-                27,
-                26,
-                25,
-                26
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Zuid-Holland",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Zuid-Holland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                10560.0,
-                8135.0,
-                7940.0,
-                7320.0,
-                7965.0,
-                8510.0,
-                7535.0
-            ]
-        },
-        -0.9587
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of movies featuring Julia Roberts",
-                "nl": "Aantal films met Julia Roberts"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                0,
-                1,
-                2,
-                1,
-                1,
-                0,
-                0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to softdrugs in Gelderland",
-                "nl": "Aantal misdrijven gerelateerd aan softdrugs in Gelderland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                615.0,
-                540.0,
-                465.0,
-                515.0,
-                550.0,
-                655.0,
-                615.0
-            ]
-        },
-        -0.963
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Overijssel",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Overijssel"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                275.0,
-                270.0,
-                275.0,
-                250.0,
-                260.0,
-                330.0,
-                415.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Classification of cyclist Sonny Colbrelli in Milano-Sanremo",
-                "nl": "Klassering van wielrenner Sonny Colbrelli in Milano-Sanremo"
-            },
-            "axis_label": {
-                "en": "Classification",
-                "nl": "Klassering"
-            },
-            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
-            "values": [
-                6,
-                18,
-                9,
-                13,
-                9,
-                43,
-                63
-            ]
-        },
-        0.9523
-    ],
-    [
-        {
-            "title": {
-                "en": "Goal difference for soccer club Ajax",
-                "nl": "Doelsaldo van voetbalclub Ajax"
-            },
-            "axis_label": {
-                "en": "Goal difference",
-                "nl": "Doelsaldo"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=3&van=2014&tot=2020&clubid=-1",
-            "values": [
-                40,
-                60,
-                56,
-                56,
-                87,
                 45,
-                79
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of movies featuring Samuel L. Jackson",
-                "nl": "Aantal films met Samuel L. Jackson"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                5,
-                2,
-                3,
-                3,
-                0,
-                5,
-                1
-            ]
-        },
-        -0.9728
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games won by soccer club FC Utrecht",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub FC Utrecht"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
+                23,
+                23,
                 11,
-                15,
-                18,
-                14,
-                15,
-                12,
+                10,
+                21,
                 13
             ]
         },
-        {
-            "title": {
-                "en": "Number of movies featuring Julia Roberts",
-                "nl": "Aantal films met Julia Roberts"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                0,
-                1,
-                2,
-                1,
-                1,
-                0,
-                0
-            ]
-        },
-        0.9547
+        0.9690430680121935
     ],
     [
         {
             "title": {
-                "en": "Number of crimes related to drunk driving in Leiden",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Leiden"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                460.0,
-                370.0,
-                310.0,
-                285.0,
-                325.0,
-                375.0,
-                350.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Vitesse",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Vitesse"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                22,
-                26,
-                27,
-                27,
-                26,
-                25,
-                26
-            ]
-        },
-        -0.9519
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Feyenoord",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Feyenoord"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                25,
-                24,
-                25,
-                26,
-                28,
-                30,
-                30
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Apeldoorn",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Apeldoorn"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                265.0,
-                195.0,
-                270.0,
-                265.0,
-                325.0,
-                490.0,
-                515.0
-            ]
-        },
-        0.9615
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of movies featuring Tom Cruise",
-                "nl": "Aantal films met Tom Cruise"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                1,
-                2,
-                1,
-                2,
-                1,
-                1,
-                1
-            ]
-        },
-        {
-            "title": {
-                "en": "Percentage of Dutch citizens indicating they're happy (Migration background: not-Western)",
-                "nl": "Percentage Nederlanders dat aangeeft gelukkig te zijn (Migratieachtergrond: niet-westers)"
-            },
-            "axis_label": {
-                "en": "Number of people",
-                "nl": "Aantal mensen"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84572NED/table?fromstatweb",
-            "values": [
-                80.6,
-                74.9,
-                80.6,
-                76.7,
-                80.3,
-                81.6,
-                80.0
-            ]
-        },
-        -0.9568
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games ended in a draw for soccer club Willem II",
-                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Willem II"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
-            "values": [
-                7,
-                11,
-                9,
-                7,
-                5,
-                5,
-                7
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Leeuwarden",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Leeuwarden"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                255.0,
-                230.0,
-                240.0,
-                255.0,
-                280.0,
-                275.0,
-                270.0
-            ]
-        },
-        -0.9535
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games won by soccer club sc Heerenveen",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub sc Heerenveen"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
-                13,
-                11,
-                12,
-                12,
-                10,
-                8,
-                9
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of movies featuring Ryan Gosling",
-                "nl": "Aantal films met Ryan Gosling"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                2,
-                1,
-                2,
-                2,
-                1,
-                0,
-                0
-            ]
-        },
-        0.9559
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Ede",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Ede"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                125.0,
-                105.0,
-                105.0,
-                160.0,
-                160.0,
-                220.0,
-                220.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Feyenoord",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Feyenoord"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                25,
-                24,
-                25,
-                26,
-                28,
-                30,
-                30
-            ]
-        },
-        0.9633
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Eindhoven",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Eindhoven"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                110.0,
-                125.0,
-                115.0,
-                120.0,
-                190.0,
-                260.0,
-                245.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of games won by soccer club sc Heerenveen",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub sc Heerenveen"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
-                13,
-                11,
-                12,
-                12,
-                10,
-                8,
-                9
-            ]
-        },
-        -0.9609
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club PSV",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub PSV"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                26,
-                23,
-                23,
-                26,
-                26,
-                29,
-                36
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to money laundering in Nederland",
-                "nl": "Aantal misdrijven gerelateerd aan witwassen in Nederland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                655.0,
-                570.0,
-                610.0,
-                695.0,
-                900.0,
-                1380.0,
-                1870.0
-            ]
-        },
-        0.9581
-    ],
-    [
-        {
-            "title": {
-                "en": "Classification of cyclist Arnaud D\u00e9mare in Milano-Sanremo",
-                "nl": "Klassering van wielrenner Arnaud D\u00e9mare in Milano-Sanremo"
+                "en": "Classification of cyclist Greg Van Avermaet in Omloop Het Nieuwsblad",
+                "nl": "Klassering van wielrenner Greg Van Avermaet in Omloop Het Nieuwsblad"
             },
             "axis_label": {
                 "en": "Classification",
                 "nl": "Klassering"
             },
-            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "source": "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/",
             "values": [
-                34,
-                127,
+                2,
+                6,
                 1,
-                6,
-                3,
-                32,
-                24
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to destruction/vandalism of cars in Leidschendam-Voorburg",
-                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Leidschendam-Voorburg"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                190.0,
-                245.0,
-                170.0,
-                160.0,
-                150.0,
-                180.0,
-                170.0
-            ]
-        },
-        0.9715
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of tropical days (>25 degrees Celcius) in de Bilt",
-                "nl": "Aantal tropische dagen in de Bilt"
-            },
-            "axis_label": {
-                "en": "Number of days",
-                "nl": "Aantal dagen"
-            },
-            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
-            "values": [
-                2,
-                5,
-                5,
-                3,
-                9,
-                11,
-                12
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Flevoland",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Flevoland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                370.0,
-                285.0,
-                315.0,
-                330.0,
-                150.0,
-                130.0,
-                105.0
-            ]
-        },
-        -0.9871
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to harddrugs in Eindhoven",
-                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Eindhoven"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                110.0,
-                125.0,
-                115.0,
-                120.0,
-                190.0,
-                260.0,
-                245.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of tropical days (>25 degrees Celcius) in de Bilt",
-                "nl": "Aantal tropische dagen in de Bilt"
-            },
-            "axis_label": {
-                "en": "Number of days",
-                "nl": "Aantal dagen"
-            },
-            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
-            "values": [
-                2,
-                5,
-                5,
-                3,
-                9,
-                11,
-                12
-            ]
-        },
-        0.9569
-    ],
-    [
-        {
-            "title": {
-                "en": "Classification of cyclist Greg Van Avermaet in World Championship Road Race",
-                "nl": "Klassering van wielrenner Greg Van Avermaet in World Championship Road Race"
-            },
-            "axis_label": {
-                "en": "Classification",
-                "nl": "Klassering"
-            },
-            "source": "https://www.procyclingstats.com/race/world-championship/",
-            "values": [
-                5,
-                23,
-                10,
-                6,
+                1,
                 50,
-                8,
-                21
+                2,
+                13
             ]
         },
         {
@@ -1717,33 +341,13 @@
                 32
             ]
         },
-        0.954
+        0.9675295201607449
     ],
     [
         {
             "title": {
-                "en": "Number of games won by soccer club Feyenoord",
-                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub Feyenoord"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
-            "values": [
-                17,
-                19,
-                26,
-                20,
-                20,
-                14,
-                16
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to softdrugs in Gelderland",
-                "nl": "Aantal misdrijven gerelateerd aan softdrugs in Gelderland"
+                "en": "Number of crimes related to destruction/vandalism of cars in Amersfoort",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Amersfoort"
             },
             "axis_label": {
                 "en": "Number of crimes",
@@ -1751,65 +355,42 @@
             },
             "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
             "values": [
-                615.0,
-                540.0,
-                465.0,
-                515.0,
-                550.0,
-                655.0,
-                615.0
-            ]
-        },
-        -0.9556
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to destruction/vandalism of cars in 's-Hertogenbosch",
-                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in 's-Hertogenbosch"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                555.0,
-                595.0,
-                525.0,
-                465.0,
-                425.0,
+                490.0,
+                475.0,
+                410.0,
                 395.0,
-                455.0
+                350.0,
+                340.0,
+                305.0
             ]
         },
         {
             "title": {
-                "en": "Number of games ended in a draw for soccer club Ajax",
-                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Ajax"
+                "en": "Position of 'Coldplay - Viva La Vida' in the Dutch Top 2000",
+                "nl": "Positie van 'Coldplay - Viva La Vida' in de Top 2000"
             },
             "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
+                "en": "Position",
+                "nl": "Positie"
             },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
+            "source": "http://www.hitsallertijden.nl/top%202000/",
             "values": [
-                8,
-                7,
-                6,
-                4,
-                2,
-                2,
-                4
+                23.0,
+                28.0,
+                33.0,
+                31.0,
+                36.0,
+                36.0,
+                43.0
             ]
         },
-        0.9502
+        -0.9563593044525488
     ],
     [
         {
             "title": {
-                "en": "Number of games ended in a draw for soccer club Heracles Almelo",
-                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Heracles Almelo"
+                "en": "Number of games ended in a draw for soccer club FC Groningen",
+                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub FC Groningen"
             },
             "axis_label": {
                 "en": "Number of games",
@@ -1817,42 +398,42 @@
             },
             "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
             "values": [
-                4,
-                9,
-                7,
-                9,
-                3,
+                13,
+                8,
+                13,
+                14,
                 6,
+                5,
                 8
             ]
         },
         {
             "title": {
-                "en": "Number of crimes related to drunk driving in Gouda",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Gouda"
+                "en": "Position of 'Dire Straits - Telegraph Road' in the Dutch Top 2000",
+                "nl": "Positie van 'Dire Straits - Telegraph Road' in de Top 2000"
             },
             "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
+                "en": "Position",
+                "nl": "Positie"
             },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "source": "http://www.hitsallertijden.nl/top%202000/",
             "values": [
-                180.0,
-                105.0,
-                115.0,
-                110.0,
-                180.0,
-                145.0,
-                110.0
+                52.0,
+                43.0,
+                53.0,
+                53.0,
+                40.0,
+                40.0,
+                42.0
             ]
         },
-        -0.9679
+        0.9860289014680159
     ],
     [
         {
             "title": {
-                "en": "Number of crimes related to destruction/vandalism of cars in Almere",
-                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Almere"
+                "en": "Number of crimes related to arson in Noord-Holland",
+                "nl": "Aantal misdrijven gerelateerd aan brandstichting in Noord-Holland"
             },
             "axis_label": {
                 "en": "Number of crimes",
@@ -1860,36 +441,36 @@
             },
             "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
             "values": [
-                620.0,
-                460.0,
-                460.0,
-                400.0,
-                375.0,
-                410.0,
-                370.0
+                705.0,
+                735.0,
+                730.0,
+                715.0,
+                710.0,
+                745.0,
+                800.0
             ]
         },
         {
             "title": {
-                "en": "Number of movies featuring Morgan Freeman",
-                "nl": "Aantal films met Morgan Freeman"
+                "en": "Number of singles featuring Justin Bieber",
+                "nl": "Aantal singles uitgebracht door Justin Bieber"
             },
             "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
+                "en": "Number of singles",
+                "nl": "Aantal singles"
             },
-            "source": "https://www.imdb.com/interfaces/",
+            "source": "https://en.wikipedia.org/wiki/Justin_Bieber_discography ",
             "values": [
+                0,
                 4,
-                2,
-                2,
-                2,
                 1,
                 1,
-                1
+                0,
+                3,
+                8
             ]
         },
-        0.9512
+        0.9619798225324142
     ],
     [
         {
@@ -1932,334 +513,33 @@
                 245.0
             ]
         },
-        -0.9602
+        -0.9602163399480456
     ],
     [
         {
             "title": {
-                "en": "Classification of cyclist Michael Matthews in Milano-Sanremo",
-                "nl": "Klassering van wielrenner Michael Matthews in Milano-Sanremo"
+                "en": "Classification of cyclist Eva Buurman in Dutch National Championship Road Race",
+                "nl": "Klassering van wielrenner Eva Buurman in Dutch National Championship Road Race"
             },
             "axis_label": {
                 "en": "Classification",
                 "nl": "Klassering"
             },
-            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "source": "https://www.procyclingstats.com/race/nc-netherlands-we/",
             "values": [
-                78,
-                3,
-                59,
-                12,
-                7,
-                12,
-                3
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of movies featuring Jennifer Aniston",
-                "nl": "Aantal films met Jennifer Aniston"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                4,
-                0,
-                3,
-                0,
-                1,
-                1,
-                0
-            ]
-        },
-        0.9676
-    ],
-    [
-        {
-            "title": {
-                "en": "Classification of cyclist Dylan Van Baarle in Ronde van Vlaanderen",
-                "nl": "Klassering van wielrenner Dylan Van Baarle in Ronde van Vlaanderen"
-            },
-            "axis_label": {
-                "en": "Classification",
-                "nl": "Klassering"
-            },
-            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen/",
-            "values": [
-                89,
-                37,
-                6,
-                4,
-                12,
-                18,
-                8
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to softdrugs in",
-                "nl": "Aantal misdrijven gerelateerd aan softdrugs in"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                260.0,
-                195.0,
-                140.0,
-                155.0,
-                150.0,
-                180.0,
-                165.0
-            ]
-        },
-        0.9731
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games ended in a draw for soccer club FC Utrecht",
-                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub FC Utrecht"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
-            "values": [
-                8,
-                8,
-                8,
-                12,
-                8,
-                5,
-                14
-            ]
-        },
-        {
-            "title": {
-                "en": "Percentage of Dutch citizens indicating they're happy (Education level: 2 Middle)",
-                "nl": "Percentage Nederlanders dat aangeeft gelukkig te zijn (Onderwijsniveau: 2 Middelbaar)"
-            },
-            "axis_label": {
-                "en": "Number of people",
-                "nl": "Aantal mensen"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84572NED/table?fromstatweb",
-            "values": [
-                88.2,
-                88.1,
-                88.0,
-                87.4,
-                88.0,
-                88.9,
-                86.6
-            ]
-        },
-        -0.9834
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games lost by soccer club PSV",
-                "nl": "Aantal wedstrijden geeindigd in verlies voor voetbalclub PSV"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                4,
-                2,
-                2,
-                3,
-                3,
-                5,
-                4
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Breda",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Breda"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                330.0,
-                190.0,
-                195.0,
-                250.0,
-                250.0,
-                325.0,
-                310.0
-            ]
-        },
-        0.9571
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to softdrugs in Nederland",
-                "nl": "Aantal misdrijven gerelateerd aan softdrugs in Nederland"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                8195.0,
-                7005.0,
-                6295.0,
-                5740.0,
-                6140.0,
-                6690.0,
-                6060.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Classification of cyclist Dylan Van Baarle in Ronde van Vlaanderen",
-                "nl": "Klassering van wielrenner Dylan Van Baarle in Ronde van Vlaanderen"
-            },
-            "axis_label": {
-                "en": "Classification",
-                "nl": "Klassering"
-            },
-            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen/",
-            "values": [
-                89,
-                37,
-                6,
-                4,
-                12,
-                18,
-                8
-            ]
-        },
-        0.9692
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of crimes related to drunk driving in Overijssel",
-                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Overijssel"
-            },
-            "axis_label": {
-                "en": "Number of crimes",
-                "nl": "Aantal misdrijven"
-            },
-            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
-            "values": [
-                1260.0,
-                1190.0,
-                1220.0,
-                1240.0,
-                1520.0,
-                1900.0,
-                1860.0
-            ]
-        },
-        {
-            "title": {
-                "en": "Number of unique players positioned by soccer club Feyenoord",
-                "nl": "Aantal unieke spelers opgesteld door voetbalclub Feyenoord"
-            },
-            "axis_label": {
-                "en": "Number of players",
-                "nl": "Aantal spelers"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?van=2014&tot=2020&clubid=-1&report=3",
-            "values": [
-                25,
-                24,
-                25,
-                26,
-                28,
-                30,
-                30
-            ]
-        },
-        0.9736
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of movies featuring Scarlett Johansson",
-                "nl": "Aantal films met Scarlett Johansson"
-            },
-            "axis_label": {
-                "en": "Number of movies",
-                "nl": "Aantal films"
-            },
-            "source": "https://www.imdb.com/interfaces/",
-            "values": [
-                3,
-                1,
-                2,
-                2,
-                0,
-                2,
-                0
-            ]
-        },
-        {
-            "title": {
-                "en": "Goal difference for soccer club Ajax",
-                "nl": "Doelsaldo van voetbalclub Ajax"
-            },
-            "axis_label": {
-                "en": "Goal difference",
-                "nl": "Doelsaldo"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=3&van=2014&tot=2020&clubid=-1",
-            "values": [
-                40,
-                60,
-                56,
-                56,
-                87,
                 45,
-                79
-            ]
-        },
-        -0.9504
-    ],
-    [
-        {
-            "title": {
-                "en": "Number of games ended in a draw for soccer club Ajax",
-                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Ajax"
-            },
-            "axis_label": {
-                "en": "Number of games",
-                "nl": "Aantal wedstrijden"
-            },
-            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
-            "values": [
-                8,
-                7,
-                6,
-                4,
-                2,
-                2,
-                4
+                23,
+                23,
+                11,
+                10,
+                21,
+                13
             ]
         },
         {
             "title": {
-                "en": "Number of crimes related to destruction/vandalism of cars in Vlaardingen",
-                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Vlaardingen"
+                "en": "Number of crimes related to softdrugs in Breda",
+                "nl": "Aantal misdrijven gerelateerd aan softdrugs in Breda"
             },
             "axis_label": {
                 "en": "Number of crimes",
@@ -2267,16 +547,59 @@
             },
             "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
             "values": [
-                265.0,
-                245.0,
-                250.0,
-                180.0,
+                220.0,
+                165.0,
                 170.0,
-                140.0,
-                180.0
+                135.0,
+                135.0,
+                145.0,
+                135.0
             ]
         },
-        0.9581
+        0.9774391781742565
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of games won by soccer club Feyenoord",
+                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub Feyenoord"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
+            "values": [
+                17,
+                19,
+                26,
+                20,
+                20,
+                14,
+                16
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of movies featuring Julia Roberts",
+                "nl": "Aantal films met Julia Roberts"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                0,
+                1,
+                2,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        0.9576020090397901
     ],
     [
         {
@@ -2319,6 +642,3360 @@
                 7
             ]
         },
-        0.9652
+        0.965236148960643
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Lisa Brennauer in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Lisa Brennauer in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                35,
+                29,
+                17,
+                59,
+                8,
+                8,
+                4
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Groningen",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Groningen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                700.0,
+                685.0,
+                665.0,
+                980.0,
+                520.0,
+                515.0,
+                460.0
+            ]
+        },
+        0.9762220276582826
+    ],
+    [
+        {
+            "title": {
+                "en": "Position of 'Simon & Garfunkel - The Sound Of Silence' in the Dutch Top 2000",
+                "nl": "Positie van 'Simon & Garfunkel - The Sound Of Silence' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                42.0,
+                44.0,
+                23.0,
+                28.0,
+                26.0,
+                28.0,
+                23.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of Thomas Krol on the Dutch National Championships 1500m speedskating",
+                "nl": "Klassering Thomas Krol op Nederlandse Kampioenschappen 1500m schaatsen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://nl.wikipedia.org/wiki/Thomas_Krol",
+            "values": [
+                14,
+                12,
+                2,
+                5,
+                2,
+                3,
+                1
+            ]
+        },
+        0.973569099189183
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Flevoland",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Flevoland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                1125.0,
+                900.0,
+                935.0,
+                810.0,
+                760.0,
+                795.0,
+                750.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Floortje Mackaij in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Floortje Mackaij in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                73,
+                46,
+                47,
+                34,
+                14,
+                19,
+                12
+            ]
+        },
+        0.9717365987134722
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Niki Terpstra in Omloop Het Nieuwsblad",
+                "nl": "Klassering van wielrenner Niki Terpstra in Omloop Het Nieuwsblad"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/omloop-het-nieuwsblad/",
+            "values": [
+                5,
+                2,
+                30,
+                51,
+                52,
+                20,
+                33
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Sittard-Geleen",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Sittard-Geleen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                390.0,
+                385.0,
+                315.0,
+                250.0,
+                220.0,
+                325.0,
+                260.0
+            ]
+        },
+        -0.967355069579945
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of games ended in a draw for soccer club Heracles Almelo",
+                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Heracles Almelo"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
+            "values": [
+                4,
+                9,
+                7,
+                9,
+                3,
+                6,
+                8
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Gouda",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Gouda"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                180.0,
+                105.0,
+                115.0,
+                110.0,
+                180.0,
+                145.0,
+                110.0
+            ]
+        },
+        -0.9678620219321598
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Almere",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Almere"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                620.0,
+                460.0,
+                460.0,
+                400.0,
+                375.0,
+                410.0,
+                370.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Eva Buurman in Dutch National Championship Road Race",
+                "nl": "Klassering van wielrenner Eva Buurman in Dutch National Championship Road Race"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/nc-netherlands-we/",
+            "values": [
+                45,
+                23,
+                23,
+                11,
+                10,
+                21,
+                13
+            ]
+        },
+        0.9741388750174709
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of games lost by soccer club Vitesse",
+                "nl": "Aantal wedstrijden geeindigd in verlies voor voetbalclub Vitesse"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=3",
+            "values": [
+                8,
+                12,
+                13,
+                11,
+                9,
+                9,
+                9
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of characters in the title of the 'Kinderboekenweekgeschenk'",
+                "nl": "Aantal karakters in de titel van het kinderboekenweekgeschenk"
+            },
+            "axis_label": {
+                "en": "Number of characters",
+                "nl": "Aantal letters"
+            },
+            "source": "https://nl.wikipedia.org/wiki/Kinderboekenweekgeschenk",
+            "values": [
+                6,
+                16,
+                17,
+                14,
+                10,
+                9,
+                8
+            ]
+        },
+        0.9825518987373838
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Anna Van Der Breggen in Dutch National Championship Road Race",
+                "nl": "Klassering van wielrenner Anna Van Der Breggen in Dutch National Championship Road Race"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/nc-netherlands-we/",
+            "values": [
+                42,
+                21,
+                58,
+                8,
+                8,
+                12,
+                1
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Bruce Springsteen - The River' in the Dutch Top 2000",
+                "nl": "Positie van 'Bruce Springsteen - The River' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                16.0,
+                17.0,
+                14.0,
+                19.0,
+                21.0,
+                19.0,
+                21.0
+            ]
+        },
+        -0.9504633738492971
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Leeuwarden",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Leeuwarden"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                255.0,
+                230.0,
+                240.0,
+                255.0,
+                280.0,
+                275.0,
+                270.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of games ended in a draw for soccer club Willem II",
+                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Willem II"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
+            "values": [
+                7,
+                11,
+                9,
+                7,
+                5,
+                5,
+                7
+            ]
+        },
+        -0.9535389854309034
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Roosendaal",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Roosendaal"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                340.0,
+                250.0,
+                215.0,
+                200.0,
+                165.0,
+                230.0,
+                195.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Eva Buurman in Dutch National Championship Road Race",
+                "nl": "Klassering van wielrenner Eva Buurman in Dutch National Championship Road Race"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/nc-netherlands-we/",
+            "values": [
+                45,
+                23,
+                23,
+                11,
+                10,
+                21,
+                13
+            ]
+        },
+        0.969328092646856
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Utrecht",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Utrecht"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                3665.0,
+                3675.0,
+                3330.0,
+                3015.0,
+                2500.0,
+                2830.0,
+                2455.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Amy Pieters in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Amy Pieters in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                23,
+                34,
+                21,
+                16,
+                2,
+                10,
+                2
+            ]
+        },
+        0.9615734502621991
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Rotterdam",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Rotterdam"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                525.0,
+                550.0,
+                560.0,
+                520.0,
+                615.0,
+                630.0,
+                615.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of tropical days (>25 degrees Celcius) in de Bilt",
+                "nl": "Aantal tropische dagen in de Bilt"
+            },
+            "axis_label": {
+                "en": "Number of days",
+                "nl": "Aantal dagen"
+            },
+            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
+            "values": [
+                2,
+                5,
+                5,
+                3,
+                9,
+                11,
+                12
+            ]
+        },
+        0.9656664571854486
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to arson in 's-Gravenhage",
+                "nl": "Aantal misdrijven gerelateerd aan brandstichting in 's-Gravenhage"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                190.0,
+                195.0,
+                190.0,
+                200.0,
+                180.0,
+                265.0,
+                350.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Sonny Colbrelli in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Sonny Colbrelli in Milano-Sanremo"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "values": [
+                6,
+                18,
+                9,
+                13,
+                9,
+                43,
+                63
+            ]
+        },
+        0.9805339131314198
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Oss",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Oss"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                300.0,
+                325.0,
+                310.0,
+                225.0,
+                220.0,
+                215.0,
+                200.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Adele - Someone Like You' in the Dutch Top 2000",
+                "nl": "Positie van 'Adele - Someone Like You' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                35.0,
+                18.0,
+                47.0,
+                89.0,
+                97.0,
+                126.0,
+                147.0
+            ]
+        },
+        -0.9554863213890332
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Utrecht",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Utrecht"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                230.0,
+                175.0,
+                120.0,
+                135.0,
+                115.0,
+                130.0,
+                135.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Amy Winehouse - Back To Black' in the Dutch Top 2000",
+                "nl": "Positie van 'Amy Winehouse - Back To Black' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                153.0,
+                98.0,
+                45.0,
+                57.0,
+                43.0,
+                58.0,
+                58.0
+            ]
+        },
+        0.9984883693475706
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Drenthe",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Drenthe"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                1240.0,
+                1095.0,
+                870.0,
+                855.0,
+                685.0,
+                735.0,
+                740.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Toto - Africa' in the Dutch Top 2000",
+                "nl": "Positie van 'Toto - Africa' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                51.0,
+                42.0,
+                30.0,
+                25.0,
+                8.0,
+                11.0,
+                14.0
+            ]
+        },
+        0.9835942266671494
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of movies featuring Julia Roberts",
+                "nl": "Aantal films met Julia Roberts"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                0,
+                1,
+                2,
+                1,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to softdrugs in Gelderland",
+                "nl": "Aantal misdrijven gerelateerd aan softdrugs in Gelderland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                615.0,
+                540.0,
+                465.0,
+                515.0,
+                550.0,
+                655.0,
+                615.0
+            ]
+        },
+        -0.9630050373457925
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to softdrugs in Zuid-Holland",
+                "nl": "Aantal misdrijven gerelateerd aan softdrugs in Zuid-Holland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                2015.0,
+                1700.0,
+                1600.0,
+                1305.0,
+                1270.0,
+                1295.0,
+                1025.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Floortje Mackaij in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Floortje Mackaij in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                73,
+                46,
+                47,
+                34,
+                14,
+                19,
+                12
+            ]
+        },
+        0.9573609993221914
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Haarlem",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Haarlem"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                660.0,
+                585.0,
+                485.0,
+                490.0,
+                435.0,
+                380.0,
+                380.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Toto - Africa' in the Dutch Top 2000",
+                "nl": "Positie van 'Toto - Africa' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                51.0,
+                42.0,
+                30.0,
+                25.0,
+                8.0,
+                11.0,
+                14.0
+            ]
+        },
+        0.9536178778075528
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of movies featuring Jennifer Aniston",
+                "nl": "Aantal films met Jennifer Aniston"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                4,
+                0,
+                3,
+                0,
+                1,
+                1,
+                0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Michael Matthews in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Michael Matthews in Milano-Sanremo"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "values": [
+                78,
+                3,
+                59,
+                12,
+                7,
+                12,
+                3
+            ]
+        },
+        0.9676040505424213
+    ],
+    [
+        {
+            "title": {
+                "en": "Position of 'Billy Joel - Piano Man' in the Dutch Top 2000",
+                "nl": "Positie van 'Billy Joel - Piano Man' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                7.0,
+                6.0,
+                4.0,
+                4.0,
+                3.0,
+                3.0,
+                4.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Drenthe",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Drenthe"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                1240.0,
+                1095.0,
+                870.0,
+                855.0,
+                685.0,
+                735.0,
+                740.0
+            ]
+        },
+        0.976121700961451
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of movies featuring Ryan Gosling",
+                "nl": "Aantal films met Ryan Gosling"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                2,
+                1,
+                2,
+                2,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of games won by soccer club sc Heerenveen",
+                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub sc Heerenveen"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
+            "values": [
+                13,
+                11,
+                12,
+                12,
+                10,
+                8,
+                9
+            ]
+        },
+        0.9558823529411766
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to softdrugs in 's-Gravenhage",
+                "nl": "Aantal misdrijven gerelateerd aan softdrugs in 's-Gravenhage"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                445.0,
+                375.0,
+                335.0,
+                255.0,
+                225.0,
+                210.0,
+                145.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Floortje Mackaij in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Floortje Mackaij in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                73,
+                46,
+                47,
+                34,
+                14,
+                19,
+                12
+            ]
+        },
+        0.9617557304558991
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Gouda",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Gouda"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                245.0,
+                260.0,
+                235.0,
+                160.0,
+                190.0,
+                175.0,
+                165.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Pearl Jam - Black' in the Dutch Top 2000",
+                "nl": "Positie van 'Pearl Jam - Black' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                12.0,
+                12.0,
+                10.0,
+                6.0,
+                7.0,
+                7.0,
+                6.0
+            ]
+        },
+        0.9817580615580304
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Haarlem",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Haarlem"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                235.0,
+                245.0,
+                240.0,
+                245.0,
+                205.0,
+                220.0,
+                140.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Coldplay - The Scientist' in the Dutch Top 2000",
+                "nl": "Positie van 'Coldplay - The Scientist' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                36.0,
+                35.0,
+                41.0,
+                39.0,
+                45.0,
+                46.0,
+                61.0
+            ]
+        },
+        -0.9580570553810502
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of movies featuring Robert Downey Jr.",
+                "nl": "Aantal films met Robert Downey Jr."
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                3,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Noord-Holland",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Noord-Holland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                5755.0,
+                4855.0,
+                4740.0,
+                4615.0,
+                4815.0,
+                5410.0,
+                4655.0
+            ]
+        },
+        0.9718495196206798
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in 's-Hertogenbosch",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in 's-Hertogenbosch"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                555.0,
+                595.0,
+                525.0,
+                465.0,
+                425.0,
+                395.0,
+                455.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Adele - Skyfall' in the Dutch Top 2000",
+                "nl": "Positie van 'Adele - Skyfall' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                93.0,
+                36.0,
+                117.0,
+                164.0,
+                184.0,
+                244.0,
+                230.0
+            ]
+        },
+        -0.9508373359351932
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of movies featuring Scarlett Johansson",
+                "nl": "Aantal films met Scarlett Johansson"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                3,
+                1,
+                2,
+                2,
+                0,
+                2,
+                0
+            ]
+        },
+        {
+            "title": {
+                "en": "Goal difference for soccer club Ajax",
+                "nl": "Doelsaldo van voetbalclub Ajax"
+            },
+            "axis_label": {
+                "en": "Goal difference",
+                "nl": "Doelsaldo"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=3&van=2014&tot=2020&clubid=-1",
+            "values": [
+                40,
+                60,
+                56,
+                56,
+                87,
+                45,
+                79
+            ]
+        },
+        -0.9503527099887911
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in 's-Gravenhage",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in 's-Gravenhage"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                1905.0,
+                1830.0,
+                1730.0,
+                1435.0,
+                1260.0,
+                1450.0,
+                1365.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Stromae - Formidable' in the Dutch Top 2000",
+                "nl": "Positie van 'Stromae - Formidable' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                32.0,
+                92.0,
+                143.0,
+                200.0,
+                296.0,
+                234.0,
+                229.0
+            ]
+        },
+        -0.974227007950218
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of games ended in a draw for soccer club Ajax",
+                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Ajax"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
+            "values": [
+                8,
+                7,
+                6,
+                4,
+                2,
+                2,
+                4
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Toto - Africa' in the Dutch Top 2000",
+                "nl": "Positie van 'Toto - Africa' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                51.0,
+                42.0,
+                30.0,
+                25.0,
+                8.0,
+                11.0,
+                14.0
+            ]
+        },
+        0.9657696991131582
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Utrecht",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Utrecht"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                1110.0,
+                1185.0,
+                1025.0,
+                920.0,
+                785.0,
+                965.0,
+                820.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Amy Pieters in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Amy Pieters in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                23,
+                34,
+                21,
+                16,
+                2,
+                10,
+                2
+            ]
+        },
+        0.9597400133877144
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to arson in Amsterdam",
+                "nl": "Aantal misdrijven gerelateerd aan brandstichting in Amsterdam"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                210.0,
+                250.0,
+                245.0,
+                250.0,
+                225.0,
+                250.0,
+                265.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Metallica - Nothing Else Matters' in the Dutch Top 2000",
+                "nl": "Positie van 'Metallica - Nothing Else Matters' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                11.0,
+                16.0,
+                15.0,
+                15.0,
+                13.0,
+                15.0,
+                17.0
+            ]
+        },
+        0.9833102586623569
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Zwolle",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Zwolle"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                130.0,
+                150.0,
+                140.0,
+                160.0,
+                200.0,
+                195.0,
+                240.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'U2 - One' in the Dutch Top 2000",
+                "nl": "Positie van 'U2 - One' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                22.0,
+                24.0,
+                31.0,
+                32.0,
+                50.0,
+                57.0,
+                67.0
+            ]
+        },
+        0.9632837247721371
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of games won by soccer club ADO Den Haag",
+                "nl": "Aantal wedstrijden geeindigd in winst voor voetbalclub ADO Den Haag"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=1",
+            "values": [
+                9,
+                10,
+                11,
+                13,
+                12,
+                4,
+                4
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Limburg",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Limburg"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                470.0,
+                440.0,
+                425.0,
+                370.0,
+                375.0,
+                535.0,
+                550.0
+            ]
+        },
+        -0.9820151799026947
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of tropical days (>25 degrees Celcius) in de Bilt",
+                "nl": "Aantal tropische dagen in de Bilt"
+            },
+            "axis_label": {
+                "en": "Number of days",
+                "nl": "Aantal dagen"
+            },
+            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
+            "values": [
+                2,
+                5,
+                5,
+                3,
+                9,
+                11,
+                12
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Flevoland",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Flevoland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                370.0,
+                285.0,
+                315.0,
+                330.0,
+                150.0,
+                130.0,
+                105.0
+            ]
+        },
+        -0.9870895661625355
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Terneuzen",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Terneuzen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                230.0,
+                150.0,
+                125.0,
+                130.0,
+                150.0,
+                190.0,
+                130.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of movies featuring Robert Downey Jr.",
+                "nl": "Aantal films met Robert Downey Jr."
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                3,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1
+            ]
+        },
+        0.9653446996787087
+    ],
+    [
+        {
+            "title": {
+                "en": "Goal difference for soccer club Ajax",
+                "nl": "Doelsaldo van voetbalclub Ajax"
+            },
+            "axis_label": {
+                "en": "Goal difference",
+                "nl": "Doelsaldo"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=3&van=2014&tot=2020&clubid=-1",
+            "values": [
+                40,
+                60,
+                56,
+                56,
+                87,
+                45,
+                79
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of movies featuring Samuel L. Jackson",
+                "nl": "Aantal films met Samuel L. Jackson"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                5,
+                2,
+                3,
+                3,
+                0,
+                5,
+                1
+            ]
+        },
+        -0.9727573982294595
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of movies featuring Leonardo DiCaprio",
+                "nl": "Aantal films met Leonardo DiCaprio"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                0,
+                1,
+                2,
+                1,
+                3,
+                3,
+                0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to arson in Utrecht",
+                "nl": "Aantal misdrijven gerelateerd aan brandstichting in Utrecht"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                140.0,
+                145.0,
+                175.0,
+                160.0,
+                190.0,
+                190.0,
+                125.0
+            ]
+        },
+        0.9686940920520563
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Zden\u011bk \u0160tybar in Gent-Wevelgem",
+                "nl": "Klassering van wielrenner Zden\u011bk \u0160tybar in Gent-Wevelgem"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/gent-wevelgem/",
+            "values": [
+                20,
+                38,
+                46,
+                52,
+                8,
+                35,
+                41
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'U2 - Sunday Bloody Sunday' in the Dutch Top 2000",
+                "nl": "Positie van 'U2 - Sunday Bloody Sunday' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                62.0,
+                57.0,
+                49.0,
+                47.0,
+                69.0,
+                61.0,
+                52.0
+            ]
+        },
+        -0.9502781106954951
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Amsterdam",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Amsterdam"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                1190.0,
+                1205.0,
+                1010.0,
+                985.0,
+                1050.0,
+                1130.0,
+                695.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Metallica - One' in the Dutch Top 2000",
+                "nl": "Positie van 'Metallica - One' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                18.0,
+                20.0,
+                25.0,
+                23.0,
+                23.0,
+                21.0,
+                30.0
+            ]
+        },
+        -0.9626600454534974
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of goals for soccer club Vitesse",
+                "nl": "Aantal doelpunten voor voetbalclub Vitesse"
+            },
+            "axis_label": {
+                "en": "Number of goals",
+                "nl": "Aantal doelpunten"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=1&van=2014&tot=2020&clubid=",
+            "values": [
+                66,
+                55,
+                51,
+                63,
+                70,
+                45,
+                52
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Pink Floyd - Wish You Were Here' in the Dutch Top 2000",
+                "nl": "Positie van 'Pink Floyd - Wish You Were Here' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                6.0,
+                9.0,
+                9.0,
+                7.0,
+                5.0,
+                10.0,
+                9.0
+            ]
+        },
+        -0.9812269848842538
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Helmond",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Helmond"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                465.0,
+                375.0,
+                290.0,
+                315.0,
+                250.0,
+                260.0,
+                255.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Billy Joel - Piano Man' in the Dutch Top 2000",
+                "nl": "Positie van 'Billy Joel - Piano Man' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                7.0,
+                6.0,
+                4.0,
+                4.0,
+                3.0,
+                3.0,
+                4.0
+            ]
+        },
+        0.9582587657659598
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Almelo",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Almelo"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                235.0,
+                190.0,
+                200.0,
+                180.0,
+                110.0,
+                140.0,
+                140.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Queen - Don't Stop Me Now' in the Dutch Top 2000",
+                "nl": "Positie van 'Queen - Don't Stop Me Now' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                111.0,
+                97.0,
+                90.0,
+                94.0,
+                37.0,
+                49.0,
+                55.0
+            ]
+        },
+        0.9649251670974873
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Zeist",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Zeist"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                205.0,
+                205.0,
+                190.0,
+                165.0,
+                115.0,
+                135.0,
+                135.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Toto - Africa' in the Dutch Top 2000",
+                "nl": "Positie van 'Toto - Africa' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                51.0,
+                42.0,
+                30.0,
+                25.0,
+                8.0,
+                11.0,
+                14.0
+            ]
+        },
+        0.9596157427968407
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Kristian Sbaragli in De Brabantse Pijl",
+                "nl": "Klassering van wielrenner Kristian Sbaragli in De Brabantse Pijl"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/brabantse-pijl/",
+            "values": [
+                20,
+                18,
+                114,
+                29,
+                26,
+                14,
+                20
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of track records skated by Sven Kramer",
+                "nl": "Aantal baanrecords gereden door Sven Kramer"
+            },
+            "axis_label": {
+                "en": "Number of track records",
+                "nl": "Aantal baanrecords"
+            },
+            "source": "https://nl.wikipedia.org/wiki/Sven_Kramer",
+            "values": [
+                2,
+                3,
+                13,
+                5,
+                1,
+                2,
+                1
+            ]
+        },
+        0.9555216933225126
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Terneuzen",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Terneuzen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                145.0,
+                155.0,
+                170.0,
+                130.0,
+                120.0,
+                130.0,
+                110.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Bruce Springsteen - The River' in the Dutch Top 2000",
+                "nl": "Positie van 'Bruce Springsteen - The River' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                16.0,
+                17.0,
+                14.0,
+                19.0,
+                21.0,
+                19.0,
+                21.0
+            ]
+        },
+        -0.9590254007670995
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Apeldoorn",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Apeldoorn"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                440.0,
+                375.0,
+                355.0,
+                300.0,
+                275.0,
+                290.0,
+                275.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Guns N' Roses - Sweet Child O' Mine' in the Dutch Top 2000",
+                "nl": "Positie van 'Guns N' Roses - Sweet Child O' Mine' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                65.0,
+                55.0,
+                51.0,
+                36.0,
+                34.0,
+                32.0,
+                35.0
+            ]
+        },
+        0.9830107251891558
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of red cards for soccer club Vitesse",
+                "nl": "Aantal rode kaarten voor voetbalclub Vitesse"
+            },
+            "axis_label": {
+                "en": "Number of red cards",
+                "nl": "Aantal rode kaarten"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubstats.asp?report=5&sortitem=1&van=2014&tot=2020&clubid=-1",
+            "values": [
+                2,
+                3,
+                4,
+                0,
+                9,
+                2,
+                5
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of summer days (>25 degrees Celcius) in de Bilt",
+                "nl": "Aantal zomerse dagen in de Bilt"
+            },
+            "axis_label": {
+                "en": "Number of days",
+                "nl": "Aantal dagen"
+            },
+            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
+            "values": [
+                23,
+                29,
+                31,
+                23,
+                55,
+                26,
+                32
+            ]
+        },
+        0.9523812782134446
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Eindhoven",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Eindhoven"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                110.0,
+                125.0,
+                115.0,
+                120.0,
+                190.0,
+                260.0,
+                245.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Dotan - Home' in the Dutch Top 2000",
+                "nl": "Positie van 'Dotan - Home' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                82.0,
+                32.0,
+                82.0,
+                205.0,
+                796.0,
+                973.0,
+                1110.0
+            ]
+        },
+        0.9681863231371967
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of goals for soccer club ADO Den Haag",
+                "nl": "Aantal doelpunten voor voetbalclub ADO Den Haag"
+            },
+            "axis_label": {
+                "en": "Number of goals",
+                "nl": "Aantal doelpunten"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=1&van=2014&tot=2020&clubid=",
+            "values": [
+                44,
+                48,
+                37,
+                45,
+                58,
+                25,
+                29
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Christine Majerus in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Christine Majerus in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                38,
+                30,
+                50,
+                36,
+                26,
+                60,
+                67
+            ]
+        },
+        -0.9535499149522151
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Noord-Holland",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Noord-Holland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                9340.0,
+                8515.0,
+                7635.0,
+                6535.0,
+                5870.0,
+                5835.0,
+                5815.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Guns N' Roses - Sweet Child O' Mine' in the Dutch Top 2000",
+                "nl": "Positie van 'Guns N' Roses - Sweet Child O' Mine' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                65.0,
+                55.0,
+                51.0,
+                36.0,
+                34.0,
+                32.0,
+                35.0
+            ]
+        },
+        0.9876158366359299
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of Michiel Mulder on the Dutch National Championships 500m speedskating",
+                "nl": "Klassering Michiel Mulder op Nederlandse Kampioenschappen 500m schaatsen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://nl.wikipedia.org/wiki/Michiel Mulder",
+            "values": [
+                3,
+                2,
+                8,
+                6,
+                9,
+                6,
+                9
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Simon & Garfunkel - The Sound Of Silence' in the Dutch Top 2000",
+                "nl": "Positie van 'Simon & Garfunkel - The Sound Of Silence' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                42.0,
+                44.0,
+                23.0,
+                28.0,
+                26.0,
+                28.0,
+                23.0
+            ]
+        },
+        -0.9509651945231752
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of Melissa Wijfje on the Dutch National Championships 3000m speedskating",
+                "nl": "Klassering Melissa Wijfje op Nederlandse Kampioenschappen 3000m schaatsen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://nl.wikipedia.org/wiki/Melissa_Wijfje",
+            "values": [
+                14,
+                9,
+                13,
+                8,
+                7,
+                7,
+                7
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Michael Matthews in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Michael Matthews in Milano-Sanremo"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "values": [
+                78,
+                3,
+                59,
+                12,
+                7,
+                12,
+                3
+            ]
+        },
+        0.9516135545885782
+    ],
+    [
+        {
+            "title": {
+                "en": "Goal difference for soccer club ADO Den Haag",
+                "nl": "Doelsaldo van voetbalclub ADO Den Haag"
+            },
+            "axis_label": {
+                "en": "Goal difference",
+                "nl": "Doelsaldo"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubgoals.asp?goals=3&van=2014&tot=2020&clubid=-1",
+            "values": [
+                -9,
+                -1,
+                -22,
+                -8,
+                -5,
+                -29,
+                -47
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Christine Majerus in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Christine Majerus in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                38,
+                30,
+                50,
+                36,
+                26,
+                60,
+                67
+            ]
+        },
+        -0.9656211388108017
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Leiden",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Leiden"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                340.0,
+                375.0,
+                310.0,
+                250.0,
+                250.0,
+                260.0,
+                165.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Guus Meeuwis - Brabant' in the Dutch Top 2000",
+                "nl": "Positie van 'Guus Meeuwis - Brabant' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                33.0,
+                22.0,
+                42.0,
+                50.0,
+                56.0,
+                50.0,
+                69.0
+            ]
+        },
+        -0.9860379449738995
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of games lost by soccer club PSV",
+                "nl": "Aantal wedstrijden geeindigd in verlies voor voetbalclub PSV"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=3",
+            "values": [
+                4,
+                2,
+                2,
+                3,
+                3,
+                5,
+                4
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Breda",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Breda"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                330.0,
+                190.0,
+                195.0,
+                250.0,
+                250.0,
+                325.0,
+                310.0
+            ]
+        },
+        0.9571382362949221
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of movies featuring Morgan Freeman",
+                "nl": "Aantal films met Morgan Freeman"
+            },
+            "axis_label": {
+                "en": "Number of movies",
+                "nl": "Aantal films"
+            },
+            "source": "https://www.imdb.com/interfaces/",
+            "values": [
+                4,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Floortje Mackaij in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Floortje Mackaij in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                73,
+                46,
+                47,
+                34,
+                14,
+                19,
+                12
+            ]
+        },
+        0.9584937471871751
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Zeeland",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Zeeland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                110.0,
+                105.0,
+                105.0,
+                115.0,
+                125.0,
+                135.0,
+                165.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Stef Bos - Papa' in the Dutch Top 2000",
+                "nl": "Positie van 'Stef Bos - Papa' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                101.0,
+                109.0,
+                116.0,
+                91.0,
+                94.0,
+                70.0,
+                31.0
+            ]
+        },
+        -0.9821043821070082
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Michael Matthews in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Michael Matthews in Milano-Sanremo"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "values": [
+                78,
+                3,
+                59,
+                12,
+                7,
+                12,
+                3
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of Carlijn Achtereekte on the Dutch National Championships 3000m speedskating",
+                "nl": "Klassering Carlijn Achtereekte op Nederlandse Kampioenschappen 500m schaatsen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://nl.wikipedia.org/wiki/Carlijn_Achtereekte",
+            "values": [
+                9,
+                3,
+                9,
+                4,
+                4,
+                3,
+                3
+            ]
+        },
+        0.9717924093962013
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Vlaardingen",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Vlaardingen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                265.0,
+                245.0,
+                250.0,
+                180.0,
+                170.0,
+                140.0,
+                180.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of games ended in a draw for soccer club Ajax",
+                "nl": "Aantal wedstrijden geeindigd in gelijkspel voor voetbalclub Ajax"
+            },
+            "axis_label": {
+                "en": "Number of games",
+                "nl": "Aantal wedstrijden"
+            },
+            "source": "http://www.ererat.nl/asp/ererat_seizoen_clubwedstrijden.asp?van=2014&tot=2020&clubid=-1&report=2",
+            "values": [
+                8,
+                7,
+                6,
+                4,
+                2,
+                2,
+                4
+            ]
+        },
+        0.9580589845098555
+    ],
+    [
+        {
+            "title": {
+                "en": "Position of 'Coldplay - The Scientist' in the Dutch Top 2000",
+                "nl": "Positie van 'Coldplay - The Scientist' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                36.0,
+                35.0,
+                41.0,
+                39.0,
+                45.0,
+                46.0,
+                61.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Zeeland",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Zeeland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                110.0,
+                105.0,
+                105.0,
+                115.0,
+                125.0,
+                135.0,
+                165.0
+            ]
+        },
+        0.9600668267621951
+    ],
+    [
+        {
+            "title": {
+                "en": "Position of 'Queen - Love Of My Life' in the Dutch Top 2000",
+                "nl": "Positie van 'Queen - Love Of My Life' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                69.0,
+                74.0,
+                64.0,
+                72.0,
+                12.0,
+                13.0,
+                11.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Flevoland",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Flevoland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                370.0,
+                285.0,
+                315.0,
+                330.0,
+                150.0,
+                130.0,
+                105.0
+            ]
+        },
+        0.9555298049781981
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Arnaud D\u00e9mare in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Arnaud D\u00e9mare in Milano-Sanremo"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "values": [
+                34,
+                127,
+                1,
+                6,
+                3,
+                32,
+                24
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Leidschendam-Voorburg",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Leidschendam-Voorburg"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                190.0,
+                245.0,
+                170.0,
+                160.0,
+                150.0,
+                180.0,
+                170.0
+            ]
+        },
+        0.9714889806750211
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Alphen aan den Rijn",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Alphen aan den Rijn"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                270.0,
+                240.0,
+                190.0,
+                185.0,
+                185.0,
+                190.0,
+                200.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Amy Winehouse - Back To Black' in the Dutch Top 2000",
+                "nl": "Positie van 'Amy Winehouse - Back To Black' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                153.0,
+                98.0,
+                45.0,
+                57.0,
+                43.0,
+                58.0,
+                58.0
+            ]
+        },
+        0.9756277257298236
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Alkmaar",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Alkmaar"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                375.0,
+                330.0,
+                355.0,
+                265.0,
+                255.0,
+                250.0,
+                275.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Linkin Park - In The End' in the Dutch Top 2000",
+                "nl": "Positie van 'Linkin Park - In The End' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                189.0,
+                144.0,
+                157.0,
+                40.0,
+                47.0,
+                52.0,
+                49.0
+            ]
+        },
+        0.9804777253543157
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Nijmegen",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Nijmegen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                620.0,
+                575.0,
+                580.0,
+                490.0,
+                390.0,
+                420.0,
+                380.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Floortje Mackaij in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Floortje Mackaij in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                73,
+                46,
+                47,
+                34,
+                14,
+                19,
+                12
+            ]
+        },
+        0.9642101975699042
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Groningen",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Groningen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                275.0,
+                300.0,
+                330.0,
+                365.0,
+                440.0,
+                490.0,
+                500.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'U2 - One' in the Dutch Top 2000",
+                "nl": "Positie van 'U2 - One' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                22.0,
+                24.0,
+                31.0,
+                32.0,
+                50.0,
+                57.0,
+                67.0
+            ]
+        },
+        0.9827749620287299
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Purmerend",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Purmerend"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                270.0,
+                255.0,
+                225.0,
+                200.0,
+                155.0,
+                165.0,
+                155.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Toto - Africa' in the Dutch Top 2000",
+                "nl": "Positie van 'Toto - Africa' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                51.0,
+                42.0,
+                30.0,
+                25.0,
+                8.0,
+                11.0,
+                14.0
+            ]
+        },
+        0.9858823863487033
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Greg Van Avermaet in World Championship Road Race",
+                "nl": "Klassering van wielrenner Greg Van Avermaet in World Championship Road Race"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/world-championship/",
+            "values": [
+                5,
+                23,
+                10,
+                6,
+                50,
+                8,
+                21
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of summer days (>25 degrees Celcius) in de Bilt",
+                "nl": "Aantal zomerse dagen in de Bilt"
+            },
+            "axis_label": {
+                "en": "Number of days",
+                "nl": "Aantal dagen"
+            },
+            "source": "https://www.knmi.nl/nederland-nu/klimatologie/maand-en-seizoensoverzichten/",
+            "values": [
+                23,
+                29,
+                31,
+                23,
+                55,
+                26,
+                32
+            ]
+        },
+        0.9540432390896082
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to harddrugs in Overijssel",
+                "nl": "Aantal misdrijven gerelateerd aan harddrugs in Overijssel"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                275.0,
+                270.0,
+                275.0,
+                250.0,
+                260.0,
+                330.0,
+                415.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Sonny Colbrelli in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Sonny Colbrelli in Milano-Sanremo"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "values": [
+                6,
+                18,
+                9,
+                13,
+                9,
+                43,
+                63
+            ]
+        },
+        0.9523307047420674
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to softdrugs in Nederland",
+                "nl": "Aantal misdrijven gerelateerd aan softdrugs in Nederland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                8195.0,
+                7005.0,
+                6295.0,
+                5740.0,
+                6140.0,
+                6690.0,
+                6060.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Classification of cyclist Chantal Van Den Broek-Blaak in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Chantal Van Den Broek-Blaak in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                27,
+                9,
+                3,
+                3,
+                5,
+                7,
+                1
+            ]
+        },
+        0.9523548078996115
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Overijssel",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Overijssel"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                2795.0,
+                2480.0,
+                2090.0,
+                1970.0,
+                1825.0,
+                1685.0,
+                1580.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Phil Collins - In The Air Tonight' in the Dutch Top 2000",
+                "nl": "Positie van 'Phil Collins - In The Air Tonight' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                97.0,
+                87.0,
+                54.0,
+                48.0,
+                41.0,
+                48.0,
+                36.0
+            ]
+        },
+        0.9650742623335632
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Cecilie Uttrup Ludwig in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Cecilie Uttrup Ludwig in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                75,
+                66,
+                43,
+                12,
+                30,
+                3,
+                16
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Den Helder",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Den Helder"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                390.0,
+                355.0,
+                310.0,
+                255.0,
+                250.0,
+                235.0,
+                235.0
+            ]
+        },
+        0.9641427063382487
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Chantal Van Den Broek-Blaak in Ronde van Vlaanderen",
+                "nl": "Klassering van wielrenner Chantal Van Den Broek-Blaak in Ronde van Vlaanderen"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/ronde-van-vlaanderen-we/",
+            "values": [
+                27,
+                9,
+                3,
+                3,
+                5,
+                7,
+                1
+            ]
+        },
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Zuid-Holland",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Zuid-Holland"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                10560.0,
+                8135.0,
+                7940.0,
+                7320.0,
+                7965.0,
+                8510.0,
+                7535.0
+            ]
+        },
+        0.9710745861981722
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to arson in Groningen",
+                "nl": "Aantal misdrijven gerelateerd aan brandstichting in Groningen"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                185.0,
+                170.0,
+                130.0,
+                150.0,
+                175.0,
+                155.0,
+                145.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Dire Straits - Brothers In Arms' in the Dutch Top 2000",
+                "nl": "Positie van 'Dire Straits - Brothers In Arms' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                14.0,
+                15.0,
+                19.0,
+                17.0,
+                15.0,
+                17.0,
+                18.0
+            ]
+        },
+        -0.9910081668184009
+    ],
+    [
+        {
+            "title": {
+                "en": "Classification of cyclist Sonny Colbrelli in Milano-Sanremo",
+                "nl": "Klassering van wielrenner Sonny Colbrelli in Milano-Sanremo"
+            },
+            "axis_label": {
+                "en": "Classification",
+                "nl": "Klassering"
+            },
+            "source": "https://www.procyclingstats.com/race/milano-sanremo/",
+            "values": [
+                6,
+                18,
+                9,
+                13,
+                9,
+                43,
+                63
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Deep Purple - Child In Time' in the Dutch Top 2000",
+                "nl": "Positie van 'Deep Purple - Child In Time' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                4.0,
+                8.0,
+                5.0,
+                5.0,
+                6.0,
+                12.0,
+                15.0
+            ]
+        },
+        0.982817454911775
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to destruction/vandalism of cars in Haarlemmermeer",
+                "nl": "Aantal misdrijven gerelateerd aan vernieling aan auto in Haarlemmermeer"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                600.0,
+                685.0,
+                425.0,
+                385.0,
+                370.0,
+                395.0,
+                270.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Guus Meeuwis - Brabant' in the Dutch Top 2000",
+                "nl": "Positie van 'Guus Meeuwis - Brabant' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                33.0,
+                22.0,
+                42.0,
+                50.0,
+                56.0,
+                50.0,
+                69.0
+            ]
+        },
+        -0.9708810465187844
+    ],
+    [
+        {
+            "title": {
+                "en": "Number of crimes related to drunk driving in Eindhoven",
+                "nl": "Aantal misdrijven gerelateerd aan rijden onder invloed in Eindhoven"
+            },
+            "axis_label": {
+                "en": "Number of crimes",
+                "nl": "Aantal misdrijven"
+            },
+            "source": "https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83648NED/table?fromstatweb",
+            "values": [
+                495.0,
+                505.0,
+                480.0,
+                530.0,
+                540.0,
+                470.0,
+                430.0
+            ]
+        },
+        {
+            "title": {
+                "en": "Position of 'Johnny Cash - Hurt' in the Dutch Top 2000",
+                "nl": "Positie van 'Johnny Cash - Hurt' in de Top 2000"
+            },
+            "axis_label": {
+                "en": "Position",
+                "nl": "Positie"
+            },
+            "source": "http://www.hitsallertijden.nl/top%202000/",
+            "values": [
+                29.0,
+                26.0,
+                28.0,
+                20.0,
+                22.0,
+                31.0,
+                40.0
+            ]
+        },
+        -0.9683895536201399
     ]
 ]
